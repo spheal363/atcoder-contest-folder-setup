@@ -1,6 +1,6 @@
 # AtCoder Contest Folder Setup Script
 
-このスクリプトは、AtCoder Beginner Contest (ABC) 用のフォルダを作成し、テンプレートをコピーするためのものです。
+このスクリプトは、AtCoder用テンプレートフォルダをコピーして実行時の日付で保存するためのものです。
 
 ## 注意事項
 - 実行は `atcoder` フォルダ内でのみ行えます。（`atcoder` フォルダは任意の場所に配置可能です）
