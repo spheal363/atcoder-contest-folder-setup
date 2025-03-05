@@ -79,7 +79,7 @@ wsl bash /path/to/your/atcoder/copy_template.sh -f
 /path/to/your/atcoder/               # `atcoder`内のフォルダ/ファイル名を変更する場合は`copy_template.sh`の中身を修正する必要があります
 ├── Template/                        # テンプレートフォルダ
 │   ├── template.cpp                 # ベースとなるC++のテンプレートファイル
-│   ├── その他必要なフォルダやファイル  #`.vscode`や`ac-library`など）
+│   ├── その他必要なフォルダやファイル  #`.vscode`や`ac-library`など
 │
 ├── AtCoder/
 │   ├── AtCoder Beginner Contest/
